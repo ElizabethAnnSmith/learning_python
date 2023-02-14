@@ -7,6 +7,8 @@ astring2 = 'Hello World!'
 # To assign a string in a variable already containing single brackets, you need to use double brackets
 print("single quotes are ' '")
 print(len(astring))
+
+
 # Print the number of characters including punctuation and spaces
 astring = "Hello world!"
 print(astring.index("o")) # This prints out 4 because the first 'o' is 4 characters away from first character

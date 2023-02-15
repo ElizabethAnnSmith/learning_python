@@ -11,3 +11,9 @@ myobjectx = MyClass()
 # myobjectx.variable
 # for example
 print(myobjectx.variable)
+
+# Can add a second object
+myobjectY = MyClass()
+myobjectY.variable = "yackity"
+print(myobjectY.variable)
+
